@@ -2,7 +2,7 @@
 
 Polytechnic University of the Philippines </br>
 Bachelor of Science in Information Technology 2-5 </br>
-Member Management System 
+Shoe Inventory System 
 
 ### Created by
       *     GUZON, JEANNE MARGARET L.
